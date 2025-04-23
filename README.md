@@ -21,5 +21,5 @@ Um projeto simples em Python para verificar a força de senhas com base em boas 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/secure-password-checker.git
+git clone https://github.com/Alphabittest/secure-password-checker.git
 cd secure-password-checker
