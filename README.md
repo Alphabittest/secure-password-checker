@@ -1,6 +1,6 @@
 # 🔐 Secure Password Checker
 
-Um projeto simples em Python para verificar a força de senhas com base em boas práticas de segurança. Ideal para aprender manipulação de strings, expressões regulares e boas práticas em Python.
+Um projeto simples em Python para verificar a força de senhas com base em boas práticas de segurança. Ideal para aprender manipulação de strings, expressões regulares e boas práticas em Python. Disppnível para mais ideias e alterações.
 
 ## 🚀 Funcionalidades
 
@@ -23,3 +23,4 @@ Um projeto simples em Python para verificar a força de senhas com base em boas 
 ```bash
 git clone https://github.com/Alphabittest/secure-password-checker.git
 cd secure-password-checker
+
